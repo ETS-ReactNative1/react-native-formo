@@ -9,7 +9,7 @@ import SwitchField from "./fields/switch";
 import DateField from "./fields/date";
 import PickerField from "./fields/picker";
 import SelectField from "./fields/select";
-import ImageField from "./fields/image";
+import ImageField from "./fields/image/signature";
 import LocationField from "./fields/location";
 import FormField from "./fields/form";
 import SubForm from "./fields/subForm";
